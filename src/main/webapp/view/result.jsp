@@ -8,7 +8,7 @@
 </head>
 	<body>
 		Result is:${num3}<br>
-		id and the name is:${alien}
+		
 		
 		
 	</body>
